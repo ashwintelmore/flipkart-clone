@@ -1,0 +1,214 @@
+{       
+
+{
+  product: {
+    products: [
+      {
+        _id: '6041c92021414d60e42107a4',
+        name: 'Mi y14',
+        slug: 'mi-y14',
+        price: 8999,
+        quantity: 15,
+        description: 'Handset, Power Adapter, USB Type-C Cable, SIM Eject Tool, Simple Protective Cover, Warranty Card, User Guide',
+        productPictures: [
+          {
+            _id: '6041c92021414d60e42107a5',
+            img: 'http://localhost:2000/public/qtfl_ExPp-mi-redmi-9-prime-m2004j191-original-imafutb5637bes8y.jpeg'
+          },
+          {
+            _id: '6041c92021414d60e42107a6',
+            img: 'http://localhost:2000/public/7AHXWGqLQ0-mi-redmi-9-prime-m2004j191-original-imafutb59fzshjrq.jpeg'
+          },
+          {
+            _id: '6041c92021414d60e42107a7',
+            img: 'http://localhost:2000/public/7-4rAyrLp2-mi-redmi-9-prime-m2004j191-original-imafutb5szbnaz7d.jpeg'
+          },
+          {
+            _id: '6041c92021414d60e42107a8',
+            img: 'http://localhost:2000/public/SYYog0mYfe-mi-redmi-9-prime-m2004j191-original-imafutb5nr4bmhgn.jpeg'
+          },
+          {
+            _id: '6041c92021414d60e42107a9',
+            img: 'http://localhost:2000/public/0J4rp1sexJ-mi-redmi-9-prime-m2004j191-m2004j19i-mzb9763in-original-imafzduurwcbwnhb.jpeg'
+          }
+        ],
+        category: '603a557ab9cb0b4f60a6ad44',
+        createdBy: '603baa0e8a08a82184e6fdfe',
+        reviews: [],
+        createdAt: '2021-03-05T06:01:04.172Z',
+        updatedAt: '2021-03-05T06:01:04.172Z',
+        __v: 0
+      },
+      
+    ],
+    productsByPrice: {
+      under5k: [
+        {
+          _id: '604711c7bbf85210087d7208',
+          name: 'MI Note 5',
+          slug: 'mi-note-5',
+          price: 4999,
+          quantity: 45,
+          description: 'Designer Merch Online Redwolf is an indie clothing label that brings you the most amazing t-shirts and accessories online inspired by everything pop culture! Redwolf offers a wide range of products from cool t shirts and sweatshirts to accessories like badges, posters, laptop skins and fridge magnets.',
+          productPictures: [
+            {
+              _id: '604711c7bbf85210087d7209',
+              img: 'http://localhost:2000/public/lIiTCDuTZ-mi-redmi-9-prime-m2004j191-original-imafutb5nr4bmhgn.jpeg'
+            },
+            {
+              _id: '604711c7bbf85210087d720a',
+              img: 'http://localhost:2000/public/bRS5FSCGOo-mi-redmi-9-prime-m2004j191-original-imafutb5637bes8y.jpeg'
+            }
+          ],
+          category: '603a557ab9cb0b4f60a6ad44',
+          createdBy: '603baa0e8a08a82184e6fdfe',
+          reviews: [],
+          createdAt: '2021-03-09T06:12:23.561Z',
+          updatedAt: '2021-03-09T06:12:23.561Z',
+          __v: 0
+        },
+      ],
+      under10k: [
+        
+        {
+          _id: '60474352c619db1fd03f18a9',
+          name: 'ReadMI zopo',
+          slug: 'readmi-zopo',
+          price: 9999,
+          quantity: 99,
+          description: 'Designer Merch Online Redwolf is an indie clothing label that brings you the most amazing t-shirts and accessories online inspired by everything pop culture! Redwolf offers a wide range of products from cool t shirts and sweatshirts to accessories like badges, posters, laptop skins and fridge magnets.',
+          productPictures: [
+            {
+              _id: '60474352c619db1fd03f18aa',
+              img: 'http://localhost:2000/public/sA5pYvEyB-mi-redmi-9-prime-m2004j191-original-imafutb5szbnaz7d.jpeg'
+            },
+            {
+              _id: '60474352c619db1fd03f18ab',
+              img: 'http://localhost:2000/public/oCwQZtv7pf-mi-redmi-9-prime-m2004j191-original-imafutb5637bes8y.jpeg'
+            }
+          ],
+          category: '603a557ab9cb0b4f60a6ad44',
+          createdBy: '603baa0e8a08a82184e6fdfe',
+          reviews: [],
+          createdAt: '2021-03-09T09:43:46.071Z',
+          updatedAt: '2021-03-09T09:43:46.071Z',
+          __v: 0
+        }
+      ],
+      under15k: [
+       
+        {
+          _id: '6047439dc619db1fd03f18af',
+          name: 'ReadMi go yo',
+          slug: 'readmi-go-yo',
+          price: 13910,
+          quantity: 99,
+          description: 'Designer Merch Online Redwolf is an indie clothing label that brings you the most amazing t-shirts and accessories online inspired by everything pop culture! Redwolf offers a wide range of products from cool t shirts and sweatshirts to accessories like badges, posters, laptop skins and fridge magnets.',
+          productPictures: [
+            {
+              _id: '6047439dc619db1fd03f18b0',
+              img: 'http://localhost:2000/public/vPLByVeZQ-mi-redmi-9-prime-m2004j191-original-imafutb5szbnaz7d.jpeg'
+            },
+            {
+              _id: '6047439dc619db1fd03f18b1',
+              img: 'http://localhost:2000/public/RXmJpIIgwQ-mi-redmi-9-prime-m2004j191-original-imafutb5637bes8y.jpeg'
+            }
+          ],
+          category: '603a557ab9cb0b4f60a6ad44',
+          createdBy: '603baa0e8a08a82184e6fdfe',
+          reviews: [],
+          createdAt: '2021-03-09T09:45:01.641Z',
+          updatedAt: '2021-03-09T09:45:01.641Z',
+          __v: 0
+        }
+      ],
+      under20k: [
+        
+        {
+          _id: '604743cac619db1fd03f18b5',
+          name: 'ReadMi red',
+          slug: 'readmi-red',
+          price: 17999,
+          quantity: 99,
+          description: 'Designer Merch Online Redwolf is an indie clothing label that brings you the most amazing t-shirts and accessories online inspired by everything pop culture! Redwolf offers a wide range of products from cool t shirts and sweatshirts to accessories like badges, posters, laptop skins and fridge magnets.',
+          productPictures: [
+            {
+              _id: '604743cac619db1fd03f18b6',
+              img: 'http://localhost:2000/public/m2yb1R3vh-mi-redmi-9-prime-m2004j191-original-imafutb5szbnaz7d.jpeg'
+            },
+            {
+              _id: '604743cac619db1fd03f18b7',
+              img: 'http://localhost:2000/public/DbjcKP7iwE-mi-redmi-9-prime-m2004j191-original-imafutb5637bes8y.jpeg'
+            }
+          ],
+          category: '603a557ab9cb0b4f60a6ad44',
+          createdBy: '603baa0e8a08a82184e6fdfe',
+          reviews: [],
+          createdAt: '2021-03-09T09:45:46.667Z',
+          updatedAt: '2021-03-09T09:45:46.667Z',
+          __v: 0
+        }
+      ],
+      under30k: [
+        {
+          _id: '6047127fbbf85210087d720e',
+          name: 'MI yo h7',
+          slug: 'mi-yo-h7',
+          price: 25000,
+          quantity: 90,
+          description: 'Designer Merch Online Redwolf is an indie clothing label that brings you the most amazing t-shirts and accessories online inspired by everything pop culture! Redwolf offers a wide range of products from cool t shirts and sweatshirts to accessories like badges, posters, laptop skins and fridge magnets.',
+          productPictures: [
+            {
+              _id: '6047127fbbf85210087d720f',
+              img: 'http://localhost:2000/public/AO1kumXYc-spigen-064cs24866-original-imafq6rxdadychvn.jpeg'
+            },
+            {
+              _id: '6047127fbbf85210087d7210',
+              img: 'http://localhost:2000/public/Fzz6uDCHoZ-spigen-064cs24866-original-imafq6rxrw8544dz.jpeg'
+            }
+          ],
+          category: '603a557ab9cb0b4f60a6ad44',
+          createdBy: '603baa0e8a08a82184e6fdfe',
+          reviews: [],
+          createdAt: '2021-03-09T06:15:27.998Z',
+          updatedAt: '2021-03-09T06:15:27.998Z',
+          __v: 0
+        }
+      ]
+    }
+  }
+}
+        
+        Object.keys(product.productsByPrice).map((key , index)=>{
+          console.log(key + " " + index);
+          return (
+            <div className="card">
+              <div className="cardHeader">
+                  <div>name Of product</div>
+                  <button>View All</button>
+              </div>
+              <div style={{display:"flex"}}>
+                {
+                  // ******************NOTE******************Thire is key
+                  product.productsByPrice[key].map(product => (
+                   // ******************NOTE******************
+                  <div className="productContainer">
+                      <div className='productImgContainer'>
+                        <img src={product.productPictures[0].img} alt=''/>
+                      </div>
+                      <div className="productInfo">
+                        <div>{product.name}</div>
+                        <div>
+                          <span>4.2</span>
+                          <span>(3234)</span>
+                        </div>
+                        <div className="productPrice">{product.price}</div>
+                      </div>
+                  </div>
+                  ))
+                }
+              </div>
+            </div>
+          );
+        })
+        }
