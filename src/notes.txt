@@ -1,0 +1,44 @@
+Fom someting proble here i dont know why bcoz i only write image.img here but in the video series
+he added holl path i dons...
+video No 17 
+Rizwan khan
+on 30:20
+// *********************CODE********************************
+                    <Col >
+                        <label className="key">Product Images</label>
+                    <div style={{display:'flex'}}>
+                        {DetailsProduct.productPictures.map(image => 
+                        <div className='productImgContainer'> 
+                            <img src={image.img} />
+                        </div> //localhost:2000/public/${image.img}
+                       )}
+                    </div>
+                </Col>
+// *********************CODE********************************
+
+############################## END ###########################################################
+
+
+
+   const getAllCategories = (categories) => {
+
+        let MyCategories = [];
+        for (let category of categories) {
+            MyCategories.push(
+                <li key={category.name}>
+                    {category.name}
+                    {category.SubCategory.length > 0 ? (<ul >{getAllCategories(category.SubCategory)}</ul>) : null}
+                </li>
+            )
+        }
+
+        return MyCategories;
+    }
+
+
+
+    <Col> 
+        <ul>                // as array
+            {getAllCategories(category.categoryList)}
+        </ul>
+    </Col>
