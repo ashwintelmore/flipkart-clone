@@ -1,0 +1,50 @@
+        
+   foud Bugs
+        there is an error user and admins email not be same 
+
+        i have to check all schemas of models or collection before deploving
+
+        when i login with wrong password but then also show login page
+
+        when i creating a new category it was created but wen i creates same category it also be created 
+        so i dont want to create similar category i want create one one category if user trying to create category
+        then it will be show an error (i dont know why i geting this error i also write inside categorySchema 
+        slug unique)
+        solutin : "Categorie.createIndexes(); " adding this line of code to the Categorie models
+                    https://stackoverflow.com/questions/5535610/mongoose-unique-index-not-working
+        above solutin is also not working sometime
+        if u see in the product schema models then thire is i set slug property unique but then it gives error 😕😕😖😵😖😖😖😖
+
+        inside the product models i require the property of price but when i trying to add new product by
+        postman the doest throgth any error and insted of i require the property of other any item of category
+        models then if i doest provided any value then they throgth error like "X item require" massege but
+        not price item
+
+
+
+
+userName   = test ;
+password = test123
+test2123
+
+
+
+{
+    "firstName":"admin",
+    "lastName" : "adminLast",
+    "email":"admin@gmail.com",
+    "userName" : "admin",
+    "password" :"admin123"
+}
+{
+    "firstName":"admin1",
+    "lastName" : "adminLast",
+    "email":"admin1@gmail.com",
+    "userName" : "admin1",
+    "password" :"admin1123"
+}
+
+
+
+Fom someting proble here i dont know why bcoz i only write image.img here but in the video series
+he added holl path i dons
